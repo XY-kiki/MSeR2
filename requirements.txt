@@ -1,0 +1,6 @@
+numpy==1.21.0
+pandas==2.0.3
+scikit-learn==1.1.1
+torch==2.4.1
+dgl==0.6.0.post1
+xgboost==2.1.4

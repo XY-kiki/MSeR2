@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.idea/
+.vscode/
+results_mser2/
+predict_results_xgb/
+embeddings_final/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
