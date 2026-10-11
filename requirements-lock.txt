@@ -1,4 +1,4 @@
-# Tested with Python 3.8.20 and PyTorch 2.4.1+cu118 (CUDA 11.8).
+Python 3.8.20 and PyTorch 2.4.1+cu118 (CUDA 11.8).
 
 numpy==1.21.0
 pandas==2.0.3
